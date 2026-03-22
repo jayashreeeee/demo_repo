@@ -1,0 +1,18 @@
+hello      apple     banana   grapes
+dragon     orrnage   papaya   mango
+
+
+jackfruit  blue      green    yellow
+red        pink      purple   lavengor
+
+
+black      white     tale     grey
+marroon    skyblue   majonta  chocky
+
+
+dog        cat       cow      eliphant
+tiger      lion      cheeta   ziraf
+
+
+
+
